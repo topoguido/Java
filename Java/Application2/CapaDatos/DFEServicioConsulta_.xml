@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<CONSULTA-ALICUOTA>
+    <fechaDesde></fechaDesde>
+    <fechaHasta></fechaHasta>
+    <cantidadContribuyentes></cantidadContribuyentes>
+    <constribuyentes class="list">
+        <contribuyente>
+            <cuitContribuyente>"20288940585"</cuitContribuyente>
+        </contribuyente>
+    </constribuyentes>
+</CONSULTA-ALICUOTA>
+
+
